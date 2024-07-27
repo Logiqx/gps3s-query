@@ -1,0 +1,29 @@
+[
+  {
+    "session_id": 400001,
+    "session_date": "1/1/2023 12:00:00 AM",
+    "event_id": 765,
+    "eventname": "2023 BritishFoilS",
+    "speed_avg": 35.888056,
+    "speed_2sec": 38.214168,
+    "speed_10sec": 36.53996,
+    "speed_100": 36.53996,
+    "speed_250": 35.506544000000005,
+    "speed_500": 35.352828,
+    "speed_mile": 33.015604,
+    "speed_hour": 24.931624,
+    "speed_halfhour": 0.0,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 30.122780000000002,
+    "session_distance": 33.142739999999996,
+    "username": "Stephen Squirrell",
+    "flag": "UK",
+    "sexe": "Men",
+    "spotname": "Levington",
+    "sessionboard": "Starboard Foil Freeride 150  WS,  2021",
+    "sessionsail": "Tushingham Vulcan 6.0,  2002",
+    "sessionfin": "Starboard Evolution Freeride ( 95 - 1100 - 500 - 95 )  95",
+    "sessiongpstype": "Locosys GT-31",
+    "sessionurl": "https://www.gps-foilsurfing.com/?mnu=user&val=400001&uid=3532"
+  }
+]
